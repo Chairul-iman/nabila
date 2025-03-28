@@ -42,13 +42,6 @@ main {
 }
 
 
-/* bagian gambar */
-img {
-    display: block;
-    margin: 20px auto;
-}
-
-
 /* bagian text dan judul */
 h1, h2, p {
     text-align: center;
